@@ -1,0 +1,8 @@
+path: ../yolov5_obb/dataset/Bi-Lingual-Text-Detection-2
+
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 2
+names: ['English', 'Manipuri']
